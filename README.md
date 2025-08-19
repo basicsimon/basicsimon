@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Simon
 
-<!--
-**basicsimon/basicsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2-orange)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-Here are some ideas to get you started:
+![basicsimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=basicsimon&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basicsimon&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+| Project | Description | Link |
+|---------|-------------|------|
+| House Price Prediction | Linear & Gradient Boosting Regression | [Repo](https://github.com/basicsimon/Machine-Learning/tree/main/Task1) |
+
+![Machine Learning](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
