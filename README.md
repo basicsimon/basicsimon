@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Qixiao Zhang
+# Hi there 👋, I'm Qixiao Zhang , also you can call me Simom!
 
 ## 🚀 About Me
 I'm a passionate developer and data enthusiast with a focus on **AI, Machine Learning, Data Analysis**, and **Full-Stack Development**.  
@@ -9,36 +9,36 @@ I love turning data into insights, building intelligent applications, and explor
 ## 🛠️ Skills & Tools
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Java](https://img.shields.io/badge/Java-17-red)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFE873)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=blue)
 
 ### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2-orange)
-![PyTorch](https://img.shields.io/badge/PyTorch-2-red)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2-green)
-![Keras](https://img.shields.io/badge/Keras-2.12-purple)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=python&logoColor=F7931E)
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras&logoColor=D00000)
 
 ### Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-1.6-blue)
-![NumPy](https://img.shields.io/badge/NumPy-1.25-orange)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8-red)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.12-purple)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python&logoColor=11557C)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=python&logoColor=4B8BBE)
 
 ### Web & Backend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26-orange)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6-blue)
-![React](https://img.shields.io/badge/React-18-blue)
-![Node.js](https://img.shields.io/badge/Node.js-20-green)
-![Express](https://img.shields.io/badge/Express.js-4-lightgrey)
-![MongoDB](https://img.shields.io/badge/MongoDB-6.0-brightgreen)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
 
 ### Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-24-blue)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
-![Git](https://img.shields.io/badge/Git-2.41-red)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure&logoColor=0089D6)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 
 ---
 
@@ -49,29 +49,9 @@ I love turning data into insights, building intelligent applications, and explor
 
 ---
 
-## 💻 Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| House Price Prediction | Linear & Gradient Boosting Regression, data analysis pipeline | [Repo](https://github.com/basicsimon/Machine-Learning/tree/main/Task1) |
-| Image Classifier | CNN on MNIST dataset using PyTorch | [Repo](#) |
-| Web Dashboard | Full-stack analytics dashboard with React & Flask | [Repo](#) |
-| Chatbot AI | NLP-based chatbot with Transformers | [Repo](#) |
-| E-commerce API | Node.js + Express backend API for online store | [Repo](#) |
-
----
-
-## 🎯 Fun & Inspiration
-![Machine Learning GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Qixiao_Zhang-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/qixiao-zhang-1684ba357)  
-[![Gmail](https://img.shields.io/badge/Gmail-qixiao20221@gmail.com-red?logo=gmail&logoColor=white)](mailto:qixiao20221@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Qixiao_Zhang-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/qixiao-zhang-1684ba357)  
+[![Gmail](https://img.shields.io/badge/Gmail-qixiao20221@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:qixiao20221@gmail.com)  
 
 📍 Helsinki, Finland  
 📞 +358 417216443
-
