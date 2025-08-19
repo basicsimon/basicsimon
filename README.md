@@ -45,8 +45,6 @@ This portfolio is for visitors, collaborators, and potential interviewers to exp
 
 ## 📊 GitHub Stats
 
-![Qixiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=basicsimon&show_icons=true&count_private=true&theme=radical&hide_title=false&line_height=30)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basicsimon&layout=compact&theme=radical)
 
 ---
