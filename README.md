@@ -1,51 +1,67 @@
-# Hi there 👋, I'm Qixiao Zhang , also you can call me Simom!
+# 👋 Hi, I’m Qixiao Zhang, also you can call me Simon!☺️
 
-## 🚀 About Me
-I'm a passionate developer and data enthusiast with a focus on **AI, Machine Learning, Data Analysis**, and **Full-Stack Development**.  
-I love turning data into insights, building intelligent applications, and exploring the latest in AI and cloud technologies.
+Welcome to my **Machine Learning & AI Projects Portfolio**!  
+Here I showcase my personal projects in AI, Machine Learning, Data Analysis, and Full-Stack Development.  
+This portfolio is for visitors, collaborators, and potential interviewers to explore my work.
 
 ---
 
-## 🛠️ Skills & Tools
-
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFE873)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=blue)
+## 🛠️ Skills & Technologies
 
 ### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch&logoColor=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=python&logoColor=F7931E)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras&logoColor=D00000)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-77AC30?style=flat&logo=python&logoColor=white)
 
-### Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy&logoColor=013243)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python&logoColor=11557C)
-![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=python&logoColor=4B8BBE)
-
-### Web & Backend Development
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=000000)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+### Data Analysis & Databases
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ### Cloud & DevOps
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure&logoColor=0089D6)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+### Frontend & Backend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+
+### Containers & Virtualization
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Qixiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=basicsimon&show_icons=true&theme=radical)
+![Qixiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=basicsimon&show_icons=true&count_private=true&theme=radical&hide_title=false&line_height=30)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basicsimon&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+- **LinkedIn:** [linkedin.com/in/qixiao-zhang-1684ba357](https://linkedin.com/in/qixiao-zhang-1684ba357)  
+- **Email:** qixiao20221@gmail.com  
+- **Location:** Helsinki  
+- **Phone:** +358 417216443  
+
+---
+
+> This README is designed to give a complete overview of my skills and projects, combining Machine Learning, AI, Data Analysis, Cloud, DevOps, and Full-Stack Development.
+
 
 ---
 
